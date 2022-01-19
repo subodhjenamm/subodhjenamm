@@ -1,1 +1,3 @@
-# This isn't my original github account. This 👉 [subodhjena](https://github.com/subodhjena) is
+# Welcome
+
+Please refer to 👉 [subodhjena](https://github.com/subodhjena) for my personal github account.
